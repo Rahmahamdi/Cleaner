@@ -1,7 +1,7 @@
 
 #Nettoyage d'un code HTML pour le rendre sémantique
 
-![](./faq_pub_1.png)
+![](./asset/faq_pub_1.png)
 
 
 
