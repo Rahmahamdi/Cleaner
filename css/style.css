@@ -95,7 +95,8 @@ a{
   overflow: hidden;
   /* height: 0px;
     opacity: 0;*/   
-    
+    transition: 0s ease-in-out;
+
 
 
 }
