@@ -11,4 +11,4 @@ on devait faire le CSS et le JS .
 
 
 
-[cliquez sur le lien](https://rahmahamdi.github.io/lorem/)
+[cliquez sur le lien](https://rahmahamdi.github.io/Cleaner/)
